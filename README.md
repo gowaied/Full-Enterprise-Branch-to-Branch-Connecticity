@@ -3,12 +3,6 @@
 This lab demonstrates a full end-to-end enterprise network between **two branches**, connected over the Internet with **GRE over IPsec VPN**, VLANs, HSRP, OSPF, and Layer-2 security.
 
 ## 🔍 Lab Topology
-- Each branch has Access, Distribution & Core layers
-- VLAN segmentation with HSRP & Rapid PVST+
-- GRE over IPsec tunnel between branch edge routers
-- LAN behind Branch1: 192.168.1.0/24
-- LAN behind Branch2: 10.0.0.0/24
-- Tunnel network: 172.16.0.0/24
 
 ![Topology](topology.png)
 
