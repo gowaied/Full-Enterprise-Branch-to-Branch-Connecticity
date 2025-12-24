@@ -4,7 +4,7 @@ This lab demonstrates a full end-to-end enterprise network between **two branche
 
 ## 🔍 Lab Topology
 
-![Topology](topology.png)
+![Topology](the-topology.png)
 
 ## Branch LAN Designs (Built From A to Z)
 
